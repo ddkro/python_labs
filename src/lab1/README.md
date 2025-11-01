@@ -3,20 +3,20 @@
 
 # задание 1:
 
-![alt text](../../images/1_1.png)
+![alt text](../../images/lab1/1_1.png)
 
 # задание 2:
 
-![alt text](../../images/1_2.png)
+![alt text](../../images/lab1/1_2.png)
 
 # задание 3:
 
-![alt text](../../images/1_3.png)
+![alt text](../../images/lab1/1_3.png)
 
 задание 4:
 
-![alt text](../../images/1_4.png)
+![alt text](../../images/lab1/1_4.png)
 
 задание 5:
 
-![alt text](../../images/1_5.png)
+![alt text](../../images/lab1/1_5.png)
